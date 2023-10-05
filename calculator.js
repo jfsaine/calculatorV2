@@ -40,3 +40,4 @@ function calculate() {
     currentInput = result.toString();
 }
 
+// UPLOAD TEST
