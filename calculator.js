@@ -39,5 +39,3 @@ function calculate() {
     document.getElementById("display").value = result;
     currentInput = result.toString();
 }
-
-// UPLOAD TEST
